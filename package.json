@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TungCorn/University-Course-Registration-Automation.git"
+    "url": "git+https://github.com/tungcorn/University-Course-Registration-Automation.git"
   },
   "keywords": [
     "automation",
@@ -17,10 +17,10 @@
     "dom-manipulation",
     "educational"
   ],
-  "author": "TungCorn",
+  "author": "tungcorn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TungCorn/University-Course-Registration-Automation/issues"
+    "url": "https://github.com/tungcorn/University-Course-Registration-Automation/issues"
   },
-  "homepage": "https://github.com/TungCorn/University-Course-Registration-Automation#readme"
+  "homepage": "https://github.com/tungcorn/University-Course-Registration-Automation#readme"
 }
