@@ -1,4 +1,4 @@
-﻿# 🎓 University Course Registration Automation
+﻿# 🎓 Course Registration Tool
 
 A browser automation tool demonstrating DOM manipulation and JavaScript injection techniques for educational purposes.
 
@@ -201,4 +201,5 @@ Created as a learning project to explore browser automation.
 ---
 
 > 💡 **For Recruiters:** This project showcases my understanding of browser APIs, automation concepts, and responsible coding practices. I built this to learn, not to exploit.
+
 
