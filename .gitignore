@@ -13,8 +13,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Build (optional - if you want to hide compiled userscript)
-# dist/
+# Build output (compiled userscript)
+dist/
 
 # Personal config with real course codes
 config.local.js
