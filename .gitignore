@@ -16,5 +16,8 @@ Thumbs.db
 # Build output (compiled userscript)
 dist/
 
+# Assets (screenshots, media)
+assets/
+
 # Personal config with real course codes
 config.local.js
